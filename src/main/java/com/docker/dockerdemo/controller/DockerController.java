@@ -10,5 +10,5 @@ public class DockerController {
 	public String getMyName() {
 		
 		return "This is a Simple Spring Boot Application";
-	}
+	}   
 }     
